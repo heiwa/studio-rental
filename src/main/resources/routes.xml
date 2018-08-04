@@ -1,0 +1,6 @@
+<routes>
+    <root to="Sample#index"/>
+    <scope module="action">
+      <match path=":controller/:action"/>
+    </scope>
+</routes>
